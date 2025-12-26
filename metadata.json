@@ -1,0 +1,5 @@
+{
+  "name": "SnapLock V2",
+  "description": "Physics-accurate synthetic data generation platform for CV/ML training, powered by Gemini and Rapier physics.",
+  "requestFramePermissions": []
+}
